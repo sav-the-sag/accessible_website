@@ -9,7 +9,7 @@
     --white: #fff;
     --blue: #2a607c;
 }
-
+/* Refer to CSS values by the name of the custom property we assigned it */
 body {
     background: var(--white)
 }
@@ -55,7 +55,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This is the main picture on the website*/
 .hero {
     height: 800px;
     width: 100%;
@@ -64,12 +64,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Search engine optimization and social media marketing*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Online reputation management*/
 .float-right {
     float: right;
     margin-left: 25px;
