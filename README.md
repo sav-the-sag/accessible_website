@@ -4,4 +4,4 @@ An accessible website for Horiseon with working links to a section on search eng
 
 ![image](https://github.com/sav-the-sag/accessible_website/assets/144732796/5b4a6133-27f9-4118-b516-68322147a33b)
 
-https://sav-the-sag.github.io/accessible_website/)https://sav-the-sag.github.io/accessible_website/
+https://sav-the-sag.github.io/accessible_website/
